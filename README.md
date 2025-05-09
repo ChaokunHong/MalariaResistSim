@@ -145,4 +145,4 @@ This package is licensed under the GPL-3 license.
 
 ## Contact
 
-For any questions or issues, please contact Chaokun Hong at [chaokunhong\@gmail.com](mailto:chaokunhong@gmail.com){.email}.
+For any questions or issues, please contact Chaokun Hong at [chaokunhong\@gmail.com](mailto:chaokunhong@gmail.com)
